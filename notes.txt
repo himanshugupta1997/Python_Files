@@ -1,0 +1,25 @@
+iris.data
+Regression :- Continous inputs. Map them to corresponding outputs. Housing Plans example
+Collect data : Processing > Model > train.
+sklearn
+kNN
+library files
+CSV
+Random 
+Operator : - Has a function add(x, y) x + y;
+Math
+
+
+kNN : Instance based, competitive and lazy. 
+Lazy :- Calculations at the end of the program.
+iris.data
+
+Dividing data
+Training data and testing data
+
+ data divided into 70, 20 ,10.
+20 for validation.
+10 for testing
+70 for trainning
+
+Checking accuracy
