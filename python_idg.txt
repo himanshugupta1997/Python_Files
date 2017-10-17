@@ -1,0 +1,75 @@
+0.About python
+Created in 1989 by Guido Van Rossum
+What is Python 
+-Multi-purpose (Web, GUI,Scripting, etc.) 
+-Object Oriented 
+-Interpreted 
+-Strongly typed and Dynamically typed
+-Focus on readability and productivity 
+In simple words....
+A readable, dynamic, pleasant, flexible, fast and powerful language!
+
+Code is written and then directly executed by an interpreter
+
+The type of a variable is interpreted at runtime(so dynamically typed) and not at compile time...bcoz there is no compiler :P
+(Tell later)A uni-typed language... tags are associated with the operands!
+
+
+1. Installing python 
+https://www.python.org/downloads/
+
+2.Python2 vs Python3
+>>The basic gist of the state of things is as follows:
+    -Python 2.7 has been the standard for a long time.
+    -Python 3 introduced major changes to the language, which many developers are unhappy with.
+    -Python 2.7 will receive necessary security updates until 2020.
+    -Python 3 is continually evolving, like Python 2 did in years past.
+
+>>Use Python 3 if...
+    You don’t care.
+    You love Python 3.
+    You are indifferent towards 2 vs 3.
+    You don’t know which one to use.
+    You embrace change.
+>>Use Python 2 if...
+    You love Python 2 and are saddened by the future being Python 3.
+    The stability requirements of your software would be improved by a language and runtime that never changes.
+    Software that you depend on requires it.
+
+
+3. Installing pip
+Pypi (python package index is a repository of softwares written for python)
+Pip is a package management system used to install and manage software packages written in Python. 
+Pip is a thing that installs packages!
+- Just make a google search for get_pip.py or open this link: https://bootstrap.pypa.io/get-pip.py
+  and download the file.
+- open your cmd as admin and go to the file path of get_pip.py and then enter the following command,
+  python get-pip.py install
+
+4.Getting started with python shell
+-numbers and operations
+-strings
+-type operator
+-lists
+-dictionary
+-if-else
+-while
+-for
+
+5.Web crawler
+A Web crawler is an Internet bot which systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).
+
+6.Web scraping
+Web scraping (web harvesting or web data extraction) is a computer software "technique" of extracting (useful)information from websites!
+
+
+7.Beautiful Soup
+Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
+To study in deep:
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+
+8. Practicing python syntax
+https://www.hackerrank.com/domains/python
+
+
